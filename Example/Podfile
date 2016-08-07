@@ -3,9 +3,5 @@ use_frameworks!
 target 'eakkasit_Example' do
   pod 'eakkasit', :path => '../'
 
-  target 'eakkasit_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
-  end
+  
 end

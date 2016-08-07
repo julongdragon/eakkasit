@@ -1,0 +1,6 @@
+framework module eakkasit {
+  umbrella header "eakkasit-umbrella.h"
+
+  export *
+  module * { export * }
+}

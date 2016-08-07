@@ -1,0 +1,16 @@
+PODS:
+  - eakkasit (0.1.0)
+
+DEPENDENCIES:
+  - eakkasit (from `../`)
+
+EXTERNAL SOURCES:
+  eakkasit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  eakkasit: 01456fb6720ca67aa229deb057044a5f5f8fb7e0
+
+PODFILE CHECKSUM: 1d2f96409e3b87bb44d69fe990cc2c59c8bb2fb0
+
+COCOAPODS: 1.0.0

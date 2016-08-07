@@ -7,12 +7,14 @@
 //
 
 import UIKit
-
+import eakkasit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        var number : Int = 456
+        print(number.Hex)
+        
     }
 
     override func didReceiveMemoryWarning() {
