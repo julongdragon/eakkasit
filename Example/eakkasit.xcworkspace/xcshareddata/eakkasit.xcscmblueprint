@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "14C7DF51F296AD3FC0FD72FCD0D90ED579E46B8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A7D313A58F3C27955EAAE90E409DED2117764DDD" : 0,
+    "14C7DF51F296AD3FC0FD72FCD0D90ED579E46B8D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D54B6438-C833-454C-8357-FECC4E0D9D86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A7D313A58F3C27955EAAE90E409DED2117764DDD" : "",
+    "14C7DF51F296AD3FC0FD72FCD0D90ED579E46B8D" : "eakkasit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "eakkasit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/eakkasit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/julongdragon\/eakkasit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14C7DF51F296AD3FC0FD72FCD0D90ED579E46B8D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/julongdragon\/LhongPo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7D313A58F3C27955EAAE90E409DED2117764DDD"
+    }
+  ]
+}

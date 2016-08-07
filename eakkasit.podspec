@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'eakkasit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of eakkasit.'
+  s.summary          = 'Hello My Pod'
 
 
 

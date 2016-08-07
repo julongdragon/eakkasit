@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         var number : Int = 456
+        
         print(number.Hex)
         
     }
